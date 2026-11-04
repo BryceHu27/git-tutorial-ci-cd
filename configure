@@ -1,0 +1,5 @@
+#!/bin/bash
+
+echo "Configuring your workflow..."
+sleep 2
+echo "Done"
